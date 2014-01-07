@@ -1,5 +1,4 @@
 url: http://websec.github.io
-foo: http://localhost:4000
 baseurl: /
 author: "Chris Weber"
 markdown: rdiscount
